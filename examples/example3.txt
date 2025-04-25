@@ -1,0 +1,6 @@
+true and true
+true and false
+false or true
+false or false
+not true
+not false
