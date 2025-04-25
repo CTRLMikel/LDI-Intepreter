@@ -45,7 +45,7 @@ You need Python 3 installed.
 
 1. Open a terminal inside the project folder.
 2. Run:
-   pip install -r requirements.txt
+   pip install -r requirements.txt and then run,
    python main.py examples/example1.txt
 
 (You can replace example1.txt with any example file.)
