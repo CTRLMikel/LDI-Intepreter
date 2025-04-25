@@ -14,7 +14,6 @@
 
 📁 Project Structure
 ---------------------
-.
 ├── token.py           (Token types and Token class)
 
 ├── lexer.py           (Lexer: turns input into tokens)
