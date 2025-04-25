@@ -16,14 +16,23 @@
 ---------------------
 .
 ├── token.py           (Token types and Token class)
+
 ├── lexer.py           (Lexer: turns input into tokens)
+
 ├── ast_nodes.py       (AST Node classes)
+
 ├── parser.py          (Parser: builds AST from tokens)
+
 ├── interpreter.py     (Interpreter: evaluates AST)
+
 ├── main.py            (Program entry point)
+
 ├── BUILD.txt          (Build instructions)
+
 ├── README.txt         (Project documentation)
+
 └── examples/          (Example source files)
+
     ├── example1.txt
     ├── example2.txt
     ├── example3.txt
